@@ -1,0 +1,5 @@
+C:\Users\oavera\Desktop\SoftwareDesign-master\SoftwareDesign-master\EjercicioRefactorizacion\TallerRefactoringParte1\bin\Debug\TallerRefactoringParte1.pdb
+C:\Users\oavera\Desktop\SoftwareDesign-master\SoftwareDesign-master\EjercicioRefactorizacion\TallerRefactoringParte1\obj\Debug\TallerRefactoringParte1.pdb
+C:\Users\oavera\Desktop\SoftwareDesign-master\SoftwareDesign-master\EjercicioRefactorizacion\TallerRefactoringParte1\bin\Debug\TallerRefactoringParte1.dll.config
+C:\Users\oavera\Desktop\SoftwareDesign-master\SoftwareDesign-master\EjercicioRefactorizacion\TallerRefactoringParte1\bin\Debug\TallerRefactoringParte1.dll
+C:\Users\oavera\Desktop\SoftwareDesign-master\SoftwareDesign-master\EjercicioRefactorizacion\TallerRefactoringParte1\obj\Debug\TallerRefactoringParte1.dll
